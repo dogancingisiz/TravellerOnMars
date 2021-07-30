@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{30C19366-8B44-4FA3-998D-EC71BC88AA18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{8BEB4718-FDA2-4E7F-BCB5-F5BF4F6019C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{FEEAF3DD-A0E8-410B-B843-4E6146D74AEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30C19366-8B44-4FA3-998D-EC71BC88AA18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30C19366-8B44-4FA3-998D-EC71BC88AA18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30C19366-8B44-4FA3-998D-EC71BC88AA18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30C19366-8B44-4FA3-998D-EC71BC88AA18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BEB4718-FDA2-4E7F-BCB5-F5BF4F6019C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BEB4718-FDA2-4E7F-BCB5-F5BF4F6019C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BEB4718-FDA2-4E7F-BCB5-F5BF4F6019C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BEB4718-FDA2-4E7F-BCB5-F5BF4F6019C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEEAF3DD-A0E8-410B-B843-4E6146D74AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEEAF3DD-A0E8-410B-B843-4E6146D74AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEEAF3DD-A0E8-410B-B843-4E6146D74AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEEAF3DD-A0E8-410B-B843-4E6146D74AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4907E8CD-B3AB-47FB-AA1E-635DC720E901}
+	EndGlobalSection
+EndGlobal
